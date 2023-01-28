@@ -25,4 +25,6 @@ data.txt - file to store the high scores.
 Utsav Acharya - Clerisyutsav47
 
 # Acknowledgments
-Thanks to the Python and Turtle communities for creating such amazing tools for building games like this! Enjoy the game!
+Thanks to the Python and Turtle communities for creating such amazing tools for building games like this! 
+
+Enjoy the game!
